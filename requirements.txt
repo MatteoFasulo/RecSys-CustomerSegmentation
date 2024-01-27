@@ -7,3 +7,4 @@ implicit
 requests
 scikit-learn
 sentence-transformers
+pyarrow
