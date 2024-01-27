@@ -4,3 +4,6 @@ numpy
 matplotlib
 openpyxl
 implicit
+requests
+scikit-learn
+sentence-transformers
